@@ -1,3 +1,5 @@
+*This repo, all files and the directory structure was created agentically by GPT-OSS 120B via OpenCode [ https://opencode.ai/ ]
+
 # P(DOOM) Calculator
 
 A tongue‑in‑cheek web app that lets you “predict” the probability of AI doom based on the year you think AI will surpass humans.
